@@ -1,0 +1,14 @@
+C:\Users\New\Desktop\hh2\bin\Debug\net8.0\hh2.exe
+C:\Users\New\Desktop\hh2\bin\Debug\net8.0\hh2.deps.json
+C:\Users\New\Desktop\hh2\bin\Debug\net8.0\hh2.runtimeconfig.json
+C:\Users\New\Desktop\hh2\bin\Debug\net8.0\hh2.dll
+C:\Users\New\Desktop\hh2\bin\Debug\net8.0\hh2.pdb
+C:\Users\New\Desktop\hh2\obj\Debug\net8.0\hh2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\hh2\obj\Debug\net8.0\hh2.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\hh2\obj\Debug\net8.0\hh2.AssemblyInfo.cs
+C:\Users\New\Desktop\hh2\obj\Debug\net8.0\hh2.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\hh2\obj\Debug\net8.0\hh2.dll
+C:\Users\New\Desktop\hh2\obj\Debug\net8.0\refint\hh2.dll
+C:\Users\New\Desktop\hh2\obj\Debug\net8.0\hh2.pdb
+C:\Users\New\Desktop\hh2\obj\Debug\net8.0\hh2.genruntimeconfig.cache
+C:\Users\New\Desktop\hh2\obj\Debug\net8.0\ref\hh2.dll
