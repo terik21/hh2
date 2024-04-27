@@ -38,6 +38,7 @@ namespace hh2
                 c = double.Parse(Console.ReadLine());
                 Console.WriteLine($"S = {Class1.Sqvear(a,b,c)}");
             }
+            else Console.WriteLine("Неправильное число");
         }
     }
 }
